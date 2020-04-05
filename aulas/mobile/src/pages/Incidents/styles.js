@@ -62,16 +62,4 @@ import Constants from 'expo-constants'
     color:'#737380' 
    },
 
-   detailsButton:{
-       flexDirection: 'row',
-       justifyContent: "space-between",
-       alignItems: 'center'
-   },
-
-   detailsButtonText:{
-       color:'#E02041',
-       fontSize: 15,
-       fontWeight: 'bold'
-   },
-
  });
